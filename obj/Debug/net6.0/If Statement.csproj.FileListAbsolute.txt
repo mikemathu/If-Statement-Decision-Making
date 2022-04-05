@@ -1,0 +1,15 @@
+C:\C#\repos\CSharp step by step\Decison Making\If Statement\bin\Debug\net6.0\If Statement.exe
+C:\C#\repos\CSharp step by step\Decison Making\If Statement\bin\Debug\net6.0\If Statement.deps.json
+C:\C#\repos\CSharp step by step\Decison Making\If Statement\bin\Debug\net6.0\If Statement.runtimeconfig.json
+C:\C#\repos\CSharp step by step\Decison Making\If Statement\bin\Debug\net6.0\If Statement.dll
+C:\C#\repos\CSharp step by step\Decison Making\If Statement\bin\Debug\net6.0\If Statement.pdb
+C:\C#\repos\CSharp step by step\Decison Making\If Statement\obj\Debug\net6.0\If Statement.csproj.AssemblyReference.cache
+C:\C#\repos\CSharp step by step\Decison Making\If Statement\obj\Debug\net6.0\If Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\CSharp step by step\Decison Making\If Statement\obj\Debug\net6.0\If Statement.AssemblyInfoInputs.cache
+C:\C#\repos\CSharp step by step\Decison Making\If Statement\obj\Debug\net6.0\If Statement.AssemblyInfo.cs
+C:\C#\repos\CSharp step by step\Decison Making\If Statement\obj\Debug\net6.0\If Statement.csproj.CoreCompileInputs.cache
+C:\C#\repos\CSharp step by step\Decison Making\If Statement\obj\Debug\net6.0\If Statement.dll
+C:\C#\repos\CSharp step by step\Decison Making\If Statement\obj\Debug\net6.0\refint\If Statement.dll
+C:\C#\repos\CSharp step by step\Decison Making\If Statement\obj\Debug\net6.0\If Statement.pdb
+C:\C#\repos\CSharp step by step\Decison Making\If Statement\obj\Debug\net6.0\If Statement.genruntimeconfig.cache
+C:\C#\repos\CSharp step by step\Decison Making\If Statement\obj\Debug\net6.0\ref\If Statement.dll
